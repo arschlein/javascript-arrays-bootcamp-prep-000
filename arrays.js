@@ -16,3 +16,4 @@ function destructivelyAddElementToEndOfArray(array, element){
   var newArray = [...array, element];
   return newArray;
 }
+
